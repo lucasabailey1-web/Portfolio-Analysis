@@ -1,4 +1,5 @@
 # Portfolio-Analysis for Q2 of 2025
+### Created March 2026
 ## Cumulative Vs Benchmark: 
 ###     The first and most simple program I am running here is a 2-line pyplot graph for Q2 of 2025. It takes all Yfinance data for SPY (State Street SPDR ETF Trust), and uses the percent changed function to scale both SPY and my weighted portfolio to the growth of a hypothetical $1. 
 ## Drawdown Graph
