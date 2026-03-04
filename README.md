@@ -12,8 +12,7 @@
 ###      This map uses Covariance and stddev to measure correlation between activity of every stock. It then builds a heatmap to show how correlated each asset is. Correct math can be seen by the diagonal values of 1 showing identical assets have a maximum correlation of 1. 
 ## Rolling 30-day Volatility:
 ###      Volatility, for this context, is just standard deviation. The .rolling function uses the past 29 and current observation for each point. To make this annualized, we take the square root of the amount of trading days per year as volatility scales to square root of time. 
-## Monte Carlo Options Pricing:
-###
+
 
 ## A problem I encountered and how it was solved:
 ### Monte carlo options:  yfinance returned the last avaliable data point creating an index with 1 value. 10000 data points created by the sim were not able to fit and the return didnt run even 1 full loop. 
