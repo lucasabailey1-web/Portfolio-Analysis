@@ -5,19 +5,19 @@
 
 ## Real-World Limits
 
-Understanding what each tool can and cannot imply is as important as knowing what it produces.
+Understanding what each tool can and cannot do is as important as knowing what it produces.
 
-**Cumulative vs Benchmark:** One good quarter could be luck, one bad quarter could be noise. Realistically, we need years of consistent outperformance across different market conditions before drawing any real conclusions.
+**Cumulative vs Benchmark:** It is widely known that one good quarter could be luck, one bad quarter could be noise. These tools work best when used to track performance across years and different market conditions, not a single period.
 
-**Sharpe Ratio:** A great number over three months can flip negative quickly. It also treats a calm upward grind and a volatile upward grind as different, even if both make the same money. A single period snapshot is not a verdict.
+**Sharpe Ratio:** A great number over three months can shift quickly. It also treats a calm upward grind and a volatile upward grind as different, even if both make the same money. Best used as one of several indicators rather than a standalone verdict.
 
-**Monte Carlo Pricing:** Built entirely on historical prices. For example, a Fed announcement, an earnings surprise, or a geopolitical event render that history irrelevant instantly.
+**Monte Carlo Pricing:** Built on historical prices, so an unexpected Fed announcement, earnings surprise, or geopolitical event can shift the landscape in ways the model won't anticipate. Therefore this tool works at its full potential in stable, low-surprise environments.
 
-**Drawdown:** Only shows damage after it has already happened. A portfolio can sit at a new peak on this chart the day before a 40% crash with zero warning.
+**Drawdown:** Most useful as a post-analysis tool to understand how a portfolio has historically handled periods of stress. Does not predict the future.
 
-**Correlation Heatmap:** Correlations that look stable in normal markets can and do break down in the case of a real market meltdown. In a real crash, nearly everything sells off together regardless of what this chart shows.
+**Correlation Heatmap:** Correlations that look stable in normal markets can shift during periods of high volatility. Most useful as a diversification type planning tool under typical market conditions.
 
-**Rolling Volatility:** This tells us how volatile our portfolio has been, not how volatile it is about to be. Some of the largest single-day drops in history followed extended periods of unusually low volatility. (Black Monday, March 2020)
+**Rolling Volatility:** Tells us how volatile our portfolio has been, not how volatile it is about to be. Periods of low volatility have historically preceded sharp moves. (Black Monday, March 2020)
 
 ---
 
