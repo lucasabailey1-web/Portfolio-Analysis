@@ -5,7 +5,7 @@
 
 ## Real-World Limits
 
-Understanding what each tool can and cannot imply about a porfolio is as important as knowing what it produces.
+Understanding what each tool can and cannot imply is as important as knowing what it produces.
 
 **Cumulative vs Benchmark:** One good quarter could be luck, one bad quarter could be noise. Realistically, we need years of consistent outperformance across different market conditions before drawing any real conclusions.
 
