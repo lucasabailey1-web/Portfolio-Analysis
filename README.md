@@ -5,7 +5,7 @@
 
 ## Real-World Limits
 
-Understanding what each tool can and cannot do is as important as knowing what it produces.
+Hello! I would like to preface by saying that understanding what each tool can and cannot imply is just as important as knowing the number it produces.
 
 **Cumulative vs Benchmark:** It is widely known that one good quarter could be luck, one bad quarter could be noise. These tools work best when used to track performance across years and different market conditions, not a single period.
 
